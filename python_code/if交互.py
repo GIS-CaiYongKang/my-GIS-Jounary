@@ -5,6 +5,6 @@ if gread=="A" or gread=="a" :
 if gread=="B" or gread=="b":
     print("You are good!")
 if gread=="C" or gread=="c":
-    print("You should be hearder.")
+    print("You should be hard-working.")
 if gread=="D" or gread=="d":
-    print("You are a losser.")
+    print("You shoule be more hard-working.")
